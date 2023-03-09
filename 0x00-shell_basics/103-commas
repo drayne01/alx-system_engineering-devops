@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1a -v --group-directories-first | paste -sd "," -; echo
+ls -amvp 
